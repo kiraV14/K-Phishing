@@ -25,3 +25,4 @@ Run the app using the python app.py command.
 When run, you will be presented with options to choose between logging into Facebook or Instagram directly from the command line.
 
 Note: The project is best used for learning and experimentation only; please do not use it to store sensitive data.
+![Screenshot 2024-11-07 163106](https://github.com/user-attachments/assets/5e86c637-395e-4c05-bea1-658fe79e7f23)
